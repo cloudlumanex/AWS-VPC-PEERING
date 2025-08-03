@@ -35,6 +35,7 @@ This repository documents the setup of a **VPC peering connection between two AW
 2. Go to **VPC Dashboard > Peering Connections**
 3. Select the pending request
 4. Click **“Accept Request”**
+5. <img width="1919" height="828" alt="Image" src="https://github.com/user-attachments/assets/35b1c823-1ee8-4523-b1f5-be3c5e239635" />
 
 ---
 
@@ -62,3 +63,4 @@ Modify EC2 instance security groups in both accounts:
 From Stage:
 ```bash
 ping (private IP of othe other EC2 instance)
+
