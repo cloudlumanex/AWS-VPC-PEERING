@@ -48,7 +48,7 @@ For each VPC:
 3. Add:
    - **Destination**: CIDR of peer VPC
    - **Target**: Peering Connection ID (e.g., `pcx-abc12345`)
-
+<img width="988" height="352" alt="Image" src="https://github.com/user-attachments/assets/b6041686-98a4-4416-91f9-57a7cc98680f" />
 ---
 
 ### 4. Update Security Groups
