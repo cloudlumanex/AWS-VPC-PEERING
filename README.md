@@ -66,6 +66,7 @@ From Stage:
 ping (private IP of othe other EC2 instance)
 ````
 <img width="648" height="579" alt="Image" src="https://github.com/user-attachments/assets/0ef2ffc6-4adc-4035-9e95-6fd48d03c22a" />
+<img width="593" height="431" alt="Image" src="https://github.com/user-attachments/assets/5d1a02af-af6b-498b-8155-4f0c9a86588e" />
 
 ##  Security Considerations
 * I applied the principle least privilege rules in security groups.
